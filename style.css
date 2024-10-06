@@ -122,6 +122,10 @@ h2 {
 
 }
 
+a{
+    text-decoration: none;
+}
+
 .h_nav a{
     position: relative;
     padding: 15%;
